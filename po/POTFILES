@@ -1,0 +1,7 @@
+data/org.gnome.browser.desktop.in
+data/org.gnome.browser.appdata.xml.in
+data/org.gnome.browser.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
